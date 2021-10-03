@@ -26,8 +26,8 @@ The total rides, total drivers, and total fares by city type were calculated fro
   ---
 ### Total Fares by City Type Multiple Line Graph
 Another DF was created using loc to parse the data to display each city type's weekly fsre metrics from January 1st 2019 to April 28th 2019. Next, the data was resampled into weekly bins after the index was reset to the datetime data type, and then the sum() function was used to get the total fares per week. Finally, the DF was plotted into a multiple line graph as shown below:
-![](Analysis/PyBer_fare_summary)
-As evidenced above, each city type experienced similar patterns in their total fares over the alloted period.
+![](Analysis/PyBer_fare_summary.png)
+* As evidenced above, each city type experienced similar patterns in their total fares over the alloted period.
 ---
 ## Summary
 #### Reccomendations to V.Isualize
