@@ -12,7 +12,6 @@ As a part of this new analysis we created a final summary visual of the aforemen
 The total rides, total drivers, and total fares by city type were calculated from the combined ride_data and city_data DF, using the groupby() function in conjunction with both the sum() and count() functions. Further, the average fare per ride and average fare per driver by city type were also calculated using the above three totals by city type. Finally, these individual series were combined into a new DF as seen below:
 
 ![](Analysis/PyBer_challenge_summary_df.png)
----
 #### Key Findings
 1. The rural cities have the highest average fare per ride and average fare per driver. In my opinion,      this makes sense for a myriad of reasons:
       a. It makes sense for the rural cities to have the highest average fare per ride because firstly            (assuming PyBer's method for determining fare price is adjusted based on their driver supply              and ride demand at any given time) they have the least amount of drivers. Secondly, since Rural          cities are often very spread out, (residential plots, commercial plots, industrial plots, etc.)          it is likely that they would have longer distances to travel when ride-sharing. 
