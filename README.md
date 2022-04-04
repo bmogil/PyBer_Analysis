@@ -1,7 +1,7 @@
 # PyBer_Analysis
 ---
 ## Overview
-The purpose of this ne analysis is to garner new data and analyze it to support V.Isualize in business decision-making, and strategy. Specifically, this new analysis required us to determine the total ride-sharing fares by city type within a period of time and then further divide this metric by weeks to arrive at the total weekly ride-sharing fare by city type.
+The purpose of this analysis is to garner new data and analyze it to support V.Isualize in business decision-making, and strategy. Specifically, this new analysis required us to determine the total ride-sharing fares by city type within a period of time and then further divide this metric by weeks to arrive at the total weekly ride-sharing fare by city type.
 
 As a part of this new analysis we created a final summary visual of the aforementioned metrics, taking the form of a multiple-line graph, as shown below: 
 
